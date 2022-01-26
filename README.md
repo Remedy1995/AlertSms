@@ -1,3 +1,3 @@
 # AlertSms
 
-#This application will help uses send messages to a client phone number
+#This application will help users send messages to a client phone number
